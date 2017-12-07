@@ -81,11 +81,11 @@ gulp.task('js', function () {
 
 //js c webpack
 
-/*gulp.task('js', function () {
-    return gulp.src(paths.app + 'js/app.js')
-        .pipe(gulpWebpack(webpackConfig, webpack))
-        .pipe(gulp.dest(paths.build + 'js/'))
-});*/
+// gulp.task('js', function () {
+//     return gulp.src(paths.app + 'js/app.js')
+//         .pipe(gulpWebpack(webpackConfig, webpack))
+//         .pipe(gulp.dest(paths.build + 'js/'))
+// });
 
 //images min
 
